@@ -1,0 +1,5 @@
+Label Encoder - 
+Convert categorical data into numerical data
+
+Simple Impute -
+Basics steps to fill null values
